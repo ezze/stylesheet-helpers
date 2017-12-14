@@ -3,6 +3,7 @@
 [![npm](https://img.shields.io/npm/v/stylesheet-traverser.svg)](https://www.npmjs.com/package/stylesheet-traverser)
 [![Travis](https://img.shields.io/travis/ezze/stylesheet-traverser/develop.svg)](https://travis-ci.org/ezze/stylesheet-traverser)
 [![Coveralls](https://img.shields.io/coveralls/github/ezze/stylesheet-traverser/develop.svg)](https://coveralls.io/github/ezze/stylesheet-traverser)
+[![Greenkeeper](https://badges.greenkeeper.io/ezze/stylesheet-traverser.svg)](https://greenkeeper.io/)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 A set of helper functions to work with CSS in JavaScript.
