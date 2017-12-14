@@ -56,7 +56,7 @@ console.log(regExpRule);
   
 ### `getStylesheetRules`
 
-The same as `getStylesheetRule` but returns an array of all found rules.
+The same as [getStylesheetRule](#getstylesheetrule) but returns an array of all found rules.
 
 ### `ensureStylesheetsAreReady`
 
