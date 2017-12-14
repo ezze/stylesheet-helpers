@@ -1,0 +1,26 @@
+{
+  "name": "stylesheet-helpers",
+  "version": "0.1.0",
+  "description": "A set of helper functions to work with CSS in JavaScript",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezze/stylesheet-helpers.git"
+  },
+  "keywords": [
+    "stylesheet",
+    "css",
+    "javascript",
+    "rules",
+    "preload"
+  ],
+  "author": "Dmitriy Pushkov <ezze@ezze.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezze/stylesheet-helpers/issues"
+  },
+  "homepage": "https://github.com/ezze/stylesheet-helpers#readme"
+}
