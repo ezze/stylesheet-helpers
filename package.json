@@ -46,6 +46,7 @@
     "babel-register": "^6.26.0",
     "chai": "^4.1.2",
     "chokidar": "^1.7.0",
+    "coveralls": "^3.0.0",
     "cross-env": "^5.1.1",
     "eslint": "^4.13.1",
     "eslint-config-ezze": "^0.3.0",
@@ -58,5 +59,6 @@
     "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-plugin-uglify": "^2.0.1",
     "uglify-es": "^3.2.2"
-  }
+  },
+  "dependencies": {}
 }
