@@ -1,10 +1,10 @@
 import babel from 'rollup-plugin-babel';
 
 const config = {
-    name: 'stylesheetHelpers',
+    name: 'stylesheetTraverser',
     input: 'src/index.js',
     output: {
-        file: 'dist/stylesheet-helpers.es.js',
+        file: 'dist/stylesheet-traverser.es.js',
         format: 'es'
     },
     external: [],

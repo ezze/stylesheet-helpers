@@ -1,8 +1,10 @@
 {
-  "name": "stylesheet-helpers",
+  "name": "stylesheet-traverser",
   "version": "0.1.0",
   "description": "A set of helper functions to work with CSS in JavaScript",
   "main": "lib/index.js",
+  "jsnext:main": "dist/stylesheet-traverser.es.js",
+  "module": "dist/stylesheet-traverser.es.js",
   "scripts": {
     "build": "rimraf lib dist && npm run transpile && npm run dist",
     "transpile": "babel src -d lib",
@@ -21,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ezze/stylesheet-helpers.git"
+    "url": "git+https://github.com/ezze/stylesheet-traverser.git"
   },
   "keywords": [
     "stylesheet",
@@ -33,9 +35,9 @@
   "author": "Dmitriy Pushkov <ezze@ezze.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ezze/stylesheet-helpers/issues"
+    "url": "https://github.com/ezze/stylesheet-traverser/issues"
   },
-  "homepage": "https://github.com/ezze/stylesheet-helpers#readme",
+  "homepage": "https://github.com/ezze/stylesheet-traverser#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",

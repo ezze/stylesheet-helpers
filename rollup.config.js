@@ -32,10 +32,10 @@ if (NODE_ENV === 'production') {
 }
 
 export default {
-    name: 'stylesheetHelpers',
+    name: 'stylesheetTraverser',
     input: 'src/index.umd.js',
     output: {
-        file: `dist/stylesheet-helpers${NODE_ENV === 'production' ? '.min' : ''}.js`,
+        file: `dist/stylesheet-traverser${NODE_ENV === 'production' ? '.min' : ''}.js`,
         format: 'umd'
     },
     globals,
